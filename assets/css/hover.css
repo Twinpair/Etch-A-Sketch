@@ -3,8 +3,8 @@ body{
 }
 
 div{
-    background-color: black;
-    display: inline-block;
+  background-color: black;
+  display: inline-block;
 }
 
 a{
@@ -12,14 +12,14 @@ a{
 }
 
 #title{
-  	text-align: center;
-  	color: black;
-  	font-size: 40px;
+	text-align: center;
+	color: black;
+	font-size: 40px;
 }
 
 #button{
-    display: inline-block;
-    height:35px;
+  display: inline-block;
+  height:35px;
 	width:200px;
 	background-color: #cc0000;
 	font-family:arial;
@@ -31,6 +31,7 @@ a{
 	margin-left: 44%;
 	margin-bottom: 20px;
 	text-decoration: none;
+	cursor: pointer;
 }
 
 #button:hover{
@@ -51,7 +52,7 @@ a{
 }
 
 #source{
-  	text-align: center;
-  	color: black;
-  	font-size: 25px;
+	text-align: center;
+	color: black;
+	font-size: 25px;
 }
