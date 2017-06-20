@@ -1,4 +1,4 @@
-# Maximos Pizza
+# On-Screen Etch-A-Sketch
 
 An on-screen Etch-A-Sketch using HTML/CSS/jQuery
 
